@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+.header__img {
+    margin: 54px 0 89px;
+}
+.header__block {
+    display: flex;
+    justify-content: space-around;
+}
+.header__block > div {
+
+}
+.header__block img {
+
+}
